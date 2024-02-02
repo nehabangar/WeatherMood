@@ -1,0 +1,23 @@
+# Collections:
+
+- User Settings:
+    User ID
+    Preferred Unit (Celsius/Fahrenheit)
+    Notification Preferences
+    
+- Location Data:
+    User ID
+    Current Location
+    Saved Locations
+
+- Weather Data:
+    Location ID
+    Timestamp
+    Temperature
+    Weather Conditions
+    Forecast Data
+
+User Interactions:
+    User ID
+    Timestamp
+    Interacted Activity (e.g., viewed forecast, set preferences)
