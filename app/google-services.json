@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419946686725",
+    "project_id": "weathermood-ec148",
+    "storage_bucket": "weathermood-ec148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419946686725:android:b7a491b06c0c48c0d12f6c",
+        "android_client_info": {
+          "package_name": "com.example.weathermood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZb1vPnAdPaUsLSeECuN8SeFhVas_WdFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
